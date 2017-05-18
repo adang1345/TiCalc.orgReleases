@@ -1,0 +1,25 @@
+I thank these people for helping shape RPG Palo 2.1.045:
+
+Randy Dang-	   for telling me which aspects were fun and what were too repetive
+Neil Dokurno-      for suggesting new features, telling me how to quicken repetitive processes,
+                   increasing difficulty level, and featuring in a cartoon
+Jeremy Gannon-     for featuring in a cartoon
+Daniel Guodace-    for encouraging me to add more humorous news stories and increasing the
+                   difficulty of enemies
+Justin Hagerty-    for testing the casino minigames
+Greg Han-	   for showing me two bugs and one fix to prevent the game from being too easy
+Vincent Ladd-      for telling me random and humorous advertisements, which I used when writing
+                   news stories
+Andrew Liu-        for preventing me from drifting too far from the original XgenStudios's Stick
+                   RPG
+Danielle Prentice- for helping me fix a bug that caused a crash on the original TI-89 and helping
+                   me find the "isVar" function does not work on all 68k calculators
+Ian Quartucci-     for showing me loading time took too long, so I decreased loading time
+Dominic Shaedler-  for showing me eating speed was too slow, so I increased the speed
+Carl Verch-        for testing how fun the game is
+Jeffrey Wang-      for testing how humorous the game is, how fun the game is, finding bugs, making
+                   sure the program works well, and introducing new ideas
+Zach Wissbrun-     for featuring in a cartoon
+Max Ying-          for suggesting how to remove boredom from the game
+
+All of these people have molded the game from its first beta version to what it is now.
